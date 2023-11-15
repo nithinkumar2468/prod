@@ -8,5 +8,6 @@ public class DockerdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerdemoApplication.class, args);
+		
 	}
 }
